@@ -1,0 +1,2 @@
+# logo
+Graphic logo, icon
